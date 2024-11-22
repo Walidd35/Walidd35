@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a full-stack web and mobile developer, passion
 - 🌱 I’m constantly exploring new technologies like **Rust**, **GraphQL**, and **TypeScript**.
 - 🔭 I’m currently working on personal projects to improve my skills in **DevOps** and **cloud technologies**.
 
+![Me coding](https://media.giphy.com/media/xT0xeJpnf3B7t06KwE/giphy.gif)
+
 ---
 
 ## 🛠 Tech Stack
@@ -54,6 +56,8 @@ A complete full-stack application for managing an online store, with features li
 - Product management (CRUD operations)
 - User authentication with JWT and bcrypt
 - Order management system
+
+![E-commerce GIF](https://media.giphy.com/media/3o6Zt2XK9s39Di5xD2/giphy.gif)
 
 ### 2. **Blog Website**
 A blog platform where users can post articles, comment, and interact with content:
