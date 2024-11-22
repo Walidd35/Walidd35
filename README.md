@@ -1,5 +1,3 @@
-# 👋 Bonjour, je suis Walid Bahij ! 🌟
-
 Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack, passionné par la technologie et toujours curieux d'apprendre de nouveaux outils et frameworks. Voici quelques informations sur moi, mes compétences et mes projets.
 
 ---
@@ -7,11 +5,11 @@ Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack,
 ## 🚀 À propos de moi
 
 - 💻 **Développeur Full-Stack** spécialisé en **Node.js** et **React.js**.
-- 🛠 Actuellement, je travaille avec **Sequelize**, **Express**, **MySQL** et **MongoDB**.
-- 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **GraphQL** et **TypeScript**.
+- 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**.
+- 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python** et **C++**.
 - 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps** et **technologies cloud**.
 
-![Moi en train de coder](https://media.giphy.com/media/3o6Zt2XK9s39Di5xD2/giphy.gif)
+![Moi en train de coder]([![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners))
 
 ---
 
