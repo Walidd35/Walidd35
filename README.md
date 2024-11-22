@@ -1,6 +1,7 @@
 Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack, passionné par la technologie et toujours curieux d'apprendre de nouveaux outils et frameworks. Voici quelques informations sur moi, mes compétences et mes projets.
 
----
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake up, Walid...&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## 🚀 À propos de moi
 
@@ -8,8 +9,6 @@ Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack,
 - 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**.
 - 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python** et **C++**.
 - 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps** et **technologies cloud**.
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Walid&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
 ---
 
 ## 🛠 Technologies que j’utilise
