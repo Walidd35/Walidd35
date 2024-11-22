@@ -8,7 +8,7 @@ Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack,
 - 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**.
 - 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python** et **C++**.
 - 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps** et **technologies cloud**.
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Hello_World🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 ---
 
