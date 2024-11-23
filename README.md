@@ -1,7 +1,9 @@
  [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake_up...&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
+Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack, passionné par la technologie et toujours curieux d'apprendre de nouveaux outils et frameworks. Voici quelques informations sur moi, mes compétences et mes projets.
 
 ## 🚀 À propos de moi
+
 
 - 💻 **Développeur Full-Stack** spécialisé en **Node.js** et **React.js**.
 - 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**.
