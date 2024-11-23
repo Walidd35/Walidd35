@@ -1,72 +1,78 @@
- [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake_up...&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake_up...&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack, passionné par la technologie et toujours curieux d'apprendre de nouveaux outils et frameworks. Voici quelques informations sur moi, mes compétences et mes projets.
 
 ## 🚀 À propos de moi
 
+- 💻 **Développeur Full-Stack** spécialisé en **Node.js** et **React.js**.  
+- 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**, et **React.js**.  
+- 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python**, et **C++**.  
+- 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps**, **technologies cloud**, et **frameworks modernes**.  
 
-- 💻 **Développeur Full-Stack** spécialisé en **Node.js** et **React.js**.
-- 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**.
-- 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python** et **C++**.
-- 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps** et **technologies cloud**.
 ---
 
 ## 🛠 Technologies que j’utilise
 
 Voici un aperçu des technologies avec lesquelles je travaille :
 
-### **Langages et Frameworks** :
- 
-### **Backend** :
+### **Langages**
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### **Frameworks**
 
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### **Base de données** :
+### **Base de données**
 
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Outils de développement** :
+### **Outils de développement**
 
 - ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
 ## 📊 Mes derniers projets
 
 Voici quelques-uns de mes projets récents :
 
 ### 1. **Plateforme e-commerce**
-Une application full-stack complète pour la gestion d’une boutique en ligne, avec des fonctionnalités comme :
-- Gestion des produits (opérations CRUD)
-- Authentification des utilisateurs avec JWT et bcrypt
-- Système de gestion des commandes
+Une application full-stack complète pour la gestion d’une boutique en ligne, avec des fonctionnalités comme :  
+- Gestion des produits (opérations CRUD)  
+- Authentification des utilisateurs avec JWT et bcrypt  
+- Système de gestion des commandes  
 
 ![reseau social](https://media.giphy.com/media/3o6Zt2XK9s39Di5xD2/giphy.gif)
 
+---
 
 ## 📬 Me contacter
 
-- 📧 **Email** : [walidbahij35@gmail.com](mailto:walid@example.com)
-- 🌐 **LinkedIn** : [Walid B.]([https://linkedin.com/in/WalidBahij](https://www.linkedin.com/in/walid-b-77b378302/))
+- 📧 **Email** : [walidbahij35@gmail.com](mailto:walidbahij35@gmail.com)  
+- 🌐 **LinkedIn** : [Walid B.](https://www.linkedin.com/in/walid-b-77b378302/)
 
 ---
 
 ## 👀 Suis-moi
 
-- ⭐️ Je suis toujours ouvert à de nouvelles opportunités de collaboration et à des expériences d'apprentissage.
-- 📚 Consultez mon blog et mes projets pour plus d’informations.
+- ⭐️ Je suis toujours ouvert à de nouvelles opportunités de collaboration et à des expériences d'apprentissage.  
 
 ---
 
 ## 📝 Fun Facts
 
-- 🎮 Je suis un passionné de jeux vidéo.
-- 📖 Je suis actuellement en train de lire The Rust progammation language .
+- 🎮 Je suis un passionné de jeux vidéo.  
+- 📖 Je suis actuellement en train de lire *The Rust Programming Language*.  
 
 ---
 
-Merci d'avoir visité mon profil ! 😊
+Merci d'avoir visité mon profil ! 😊  
