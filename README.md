@@ -49,13 +49,13 @@ Voici un aperçu des technologies avec lesquelles je travaille :
 Voici quelques-uns de mes projets récents :
 
 ### 1. **Réseau Social**
-Une application back-end complète pour la gestion d’une boutique en ligne, avec des fonctionnalités comme :  
+Une application back-end complète pour resaux social, avec des fonctionnalités comme :  
 - Inscription/Connexion
 - Possibilité de poster des publications et de les commenter
 - Session sécurisée grace à JWT
-- 
+- Rôles : Admin/User
 
-![reseau social](<iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen>
+![reseau social](<iframe src="https://giphy.com/embed/XyJPNKBskIDWR3Md8K" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/trazoz-mobile-phone-azul-XyJPNKBskIDWR3Md8K">via GIPHY</a></p>
 
 ## 📬 Me contacter
 
