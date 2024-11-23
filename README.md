@@ -48,13 +48,14 @@ Voici un aperçu des technologies avec lesquelles je travaille :
 
 Voici quelques-uns de mes projets récents :
 
-### 1. **Plateforme e-commerce**
-Une application full-stack complète pour la gestion d’une boutique en ligne, avec des fonctionnalités comme :  
-- Gestion des produits (opérations CRUD)  
-- Authentification des utilisateurs avec JWT et bcrypt  
-- Système de gestion des commandes  
+### 1. **Réseau Social**
+Une application back-end complète pour la gestion d’une boutique en ligne, avec des fonctionnalités comme :  
+- Inscription/Connexion
+- Possibilité de poster des publications et de les commenter
+- Session sécurisée grace à JWT
+- 
 
-![reseau social](https://media.giphy.com/media/3o6Zt2XK9s39Di5xD2/giphy.gif)
+![reseau social](<iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickelodeon-funny-lol-VtAK1TEI8aTF6">via GIPHY</a></p>)
 
 ---
 
