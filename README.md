@@ -7,7 +7,9 @@ Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack,
 - 💻 **Développeur Full-Stack** spécialisé en **Node.js** et **React.js**.  
 - 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**, et **React.js**.  
 - 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python**, et **C++**.  
-- 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps**, **technologies cloud**, et **frameworks modernes**.  
+- 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps**, **technologies cloud**, et **frameworks modernes**.
+- 
+![GitHub Snake](https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake.svg)
 
 ---
 
