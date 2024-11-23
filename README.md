@@ -55,7 +55,7 @@ Une application back-end complète pour la gestion d’une boutique en ligne, av
 - Session sécurisée grace à JWT
 - 
 
-![reseau social](<iframe src="https://giphy.com/embed/VtAK1TEI8aTF6" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nickelodeon-funny-lol-VtAK1TEI8aTF6">via GIPHY</a></p>)
+![reseau social](https://giphy.com/embed/VtAK1TEI8aTF6")
 
 ---
 
