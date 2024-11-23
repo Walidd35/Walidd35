@@ -88,7 +88,7 @@ Un gestionnaire de tâches simple écrit en Rust, permettant :
 ---
 
 ## 📝 Fun Facts
-- Le premier bug informatique était une vraie mite 
+- Le premier bug informatique était une vraie mite coincé dans l'ordinateur. 
 - 🎮 Je suis un passionné de jeux vidéo.  
 - 📖 Je suis actuellement en train de lire *The Rust Programming Language*.  
 
