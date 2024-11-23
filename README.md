@@ -10,7 +10,9 @@ Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack,
 - 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps**, **technologies cloud**, et **frameworks modernes**.
 
 
- ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=react&border_radius=10) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=react&border_radius=10)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walidd35&layout=compact)
+ ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=react&border_radius=10) 
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=react&border_radius=10)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walidd35&layout=compact)
 
 ---
    ![GitHub Snake](https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake.svg)
