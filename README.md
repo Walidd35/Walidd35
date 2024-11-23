@@ -50,6 +50,7 @@ Voici quelques-uns de mes projets récents :
 
 ### 1. **Réseau Social**
 Une application back-end complète pour resaux social, avec des fonctionnalités comme :  
+
 - Inscription/Connexion
 - Possibilité de poster des publications et de les commenter
 - Session sécurisée grace à JWT
@@ -57,6 +58,15 @@ Une application back-end complète pour resaux social, avec des fonctionnalités
 
 ![GIF Description](https://media.giphy.com/media/VtAK1TEI8aTF6/giphy.gif)
 
+### 2. **Gestionnaire de tâches en Rust**
+Un gestionnaire de tâches simple écrit en Rust, permettant :
+
+- D'ajouter, de supprimer et de lister les tâches
+- Stockage des tâches dans un fichier local
+- Utilisation d'une interface en ligne de commande minimaliste
+  
+[![Voir le GIF](https://media.giphy.com/media/kLOkqcrdC5mrCE7k7G/giphy.gif)](https://giphy.com/gifs/drawify-kLOkqcrdC5mrCE7k7G)
+   
 ## 📬 Me contacter
 
 - 📧 **Email** : [walidbahij35@gmail.com](mailto:walidbahij35@gmail.com)  
