@@ -34,13 +34,6 @@ Voici un aperçu des technologies avec lesquelles je travaille :
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-## 📈 Statistiques GitHub
-
-![Statistiques GitHub de Walid](https://github-readme-stats.vercel.app/api?username=WalidBahij&show_icons=true&hide_title=true&count_private=true&theme=radical)
-
----
 
 ## 📊 Mes derniers projets
 
@@ -52,23 +45,13 @@ Une application full-stack complète pour la gestion d’une boutique en ligne, 
 - Authentification des utilisateurs avec JWT et bcrypt
 - Système de gestion des commandes
 
-![E-commerce GIF](https://media.giphy.com/media/3o6Zt2XK9s39Di5xD2/giphy.gif)
+![reseau social](https://media.giphy.com/media/3o6Zt2XK9s39Di5xD2/giphy.gif)
 
-### 2. **Site de blog**
-Une plateforme de blog où les utilisateurs peuvent publier des articles, commenter et interagir avec le contenu :
-- Développé avec **Node.js**, **Express**, et **MongoDB**
-- Authentification des utilisateurs et gestion des rôles
-
-![Blog GIF](https://media.giphy.com/media/l4KhQp8p7zyucZcxO/giphy.gif)
-
----
 
 ## 📬 Me contacter
 
-- 📧 **Email** : [walid@example.com](mailto:walid@example.com)
-- 🌐 **LinkedIn** : [Walid Bahij](https://linkedin.com/in/WalidBahij)
-- 🐦 **Twitter** : [@WalidDev](https://twitter.com/WalidDev)
-- 🌍 **Portfolio** : [walid.dev](https://walid.dev)
+- 📧 **Email** : [walidbahij35@gmail.com](mailto:walid@example.com)
+- 🌐 **LinkedIn** : [Walid B.]([https://linkedin.com/in/WalidBahij](https://www.linkedin.com/in/walid-b-77b378302/))
 
 ---
 
@@ -81,9 +64,8 @@ Une plateforme de blog où les utilisateurs peuvent publier des articles, commen
 
 ## 📝 Fun Facts
 
-- 🏋️ J'aime le fitness et je tente de rester actif.
 - 🎮 Je suis un passionné de jeux vidéo.
-- 📖 Je suis actuellement en train de lire des ouvrages sur l'**architecture logicielle** et les **technologies cloud**.
+- 📖 Je suis actuellement en train de lire The Rust progammation language .
 
 ---
 
