@@ -1,8 +1,4 @@
-Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack, passionné par la technologie et toujours curieux d'apprendre de nouveaux outils et frameworks. Voici quelques informations sur moi, mes compétences et mes projets.
-
-
-
-   [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wakeup...&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+ [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wakeup...&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 
 ## 🚀 À propos de moi
