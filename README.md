@@ -1,34 +1,11 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake_up...&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
-✌️ Hi there! I'm Léo Dubosclard
+✌️ Hi there! I'm Walid Bahij
 
     📚 I'm a Backend developer and Student at @Simplon
     🔭 I'm currently looking for a Freelance ✨ (backend, frontend, fullstack)
     🌱 I’m currently learning python and rust ☕️
+
   
-
-Socials 💬
-
-
-Stack ✨
-
-Backend
-
-JavaScript ExpressJS Fastify NestJS JsonWebToken Jest
-Frontend
-
- VueJS
-Databases
-
-Mysql MongoDB
-Deployments
-
-Netlify Google Cloud Vercel
-DevOps
-
-Docker Google Cloud Netlify
-Tools
-
-CMake Swagger Insomnia Postman Notion Trello GitHub ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 Stats 🎯
  ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=react&border_radius=10) 
  
@@ -69,6 +46,7 @@ Voici un aperçu des technologies avec lesquelles je travaille :
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) 
 
 ---
 
