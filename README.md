@@ -5,8 +5,8 @@
     🔭 I'm currently looking for a Freelance ✨ (backend, frontend, fullstack)
     🌱 I’m currently learning python and rust ☕️
 
+  Stats 🎯
   
-Stats 🎯
  ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=react&border_radius=10) 
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=react&border_radius=10)
