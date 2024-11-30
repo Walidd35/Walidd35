@@ -1,15 +1,35 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake_up...&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+✌️ Hi there! I'm Léo Dubosclard
 
-Bienvenue sur mon profil GitHub ! Je suis développeur web et mobile full-stack, passionné par la technologie et toujours curieux d'apprendre de nouveaux outils et frameworks. Voici quelques informations sur moi, mes compétences et mes projets.
+    📚 I'm a Backend developer and Student at @Simplon
+    🔭 I'm currently looking for a Freelance ✨ (backend, frontend, fullstack)
+    🌱 I’m currently learning python and rust ☕️
+  
 
-## 🚀 À propos de moi
-
-- 💻 **Développeur Full-Stack** spécialisé en **Node.js** et **React.js**.  
-- 🛠 Actuellement, je travaille avec **Node.js**, **Express.js**, **SQL**, et **React.js**.  
-- 🌱 Je suis constamment en train d'explorer de nouvelles technologies comme **Rust**, **Python**, et **C++**.  
-- 🔭 Je travaille sur des projets personnels pour améliorer mes compétences en **DevOps**, **technologies cloud**, et **frameworks modernes**.
+Socials 💬
 
 
+Stack ✨
+
+Backend
+
+JavaScript ExpressJS Fastify NestJS JsonWebToken Jest
+Frontend
+
+ VueJS
+Databases
+
+Mysql MongoDB
+Deployments
+
+Netlify Google Cloud Vercel
+DevOps
+
+Docker Google Cloud Netlify
+Tools
+
+CMake Swagger Insomnia Postman Notion Trello GitHub ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Stats 🎯
  ![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=react&border_radius=10) 
  
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=react&border_radius=10)
