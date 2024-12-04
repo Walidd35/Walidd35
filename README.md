@@ -2,7 +2,7 @@
 ✌️ Hi there! I'm Walid Bahij
 
     📚 I'm a Backend developer and Student at @Simplon
-    🔭 I'm currently looking for a Freelance ✨ (backend, frontend, fullstack)
+    🔭 I'm currently looking for an alternance
     🌱 I’m currently learning python and rust ☕️
 
   Stats 🎯
