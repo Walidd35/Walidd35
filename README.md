@@ -1,4 +1,5 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Wake_up...&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
+
 ✌️ Hi there! I'm Walid Bahij
 
     📚 I'm a Backend developer and Student at @Simplon
@@ -89,7 +90,6 @@ Un gestionnaire de tâches simple écrit en Rust, permettant :
 ## 📝 Fun Facts
 - Le premier bug informatique était une vraie mite coincé dans un ordinateur. 
 - 🎮 Je suis un passionné de jeux vidéo.  
-- 📖 Je suis actuellement en train de lire *The Rust Programming Language*.  
 
 ---
 
