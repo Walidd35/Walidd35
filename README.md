@@ -9,13 +9,14 @@
   Stats 🎯
   
  ## Mes streak GitHub
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=react&border_radius=10)
- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=dark&border_radius=10)
+
  ## Mes statistiques GitHub
- [![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Walid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Walidd35&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  ## Langages les plus utilisés
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walidd35&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walidd35&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ---
