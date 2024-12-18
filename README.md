@@ -4,7 +4,7 @@
 
     📚 I'm a Backend developer and Student at @Simplon
     🔭 I'm currently looking for an alternance
-    🌱 I’m currently learning python and rust ☕️
+    🌱 I’m currently learning python 
 
   Stats 🎯
   
