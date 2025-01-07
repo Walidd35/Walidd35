@@ -6,7 +6,6 @@
     🔭 I'm currently looking for an alternance
     🌱 I’m currently learning python 
 
-  Stats 🎯
   
  ## Langages les plus utilisés
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walidd35&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
