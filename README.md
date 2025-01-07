@@ -8,14 +8,8 @@
 
   Stats 🎯
   
- ## Mes streak GitHub
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Walidd35&theme=dark&border_radius=10)
-
-
  ## Langages les plus utilisés
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Walidd35&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ---
    ![GitHub Snake](https://raw.githubusercontent.com/Sassid/Sassid/output/github-contribution-grid-snake.svg)
